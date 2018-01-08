@@ -1,6 +1,6 @@
 <?php
 
-namespace App\hallo;
+namespace App\hello;
 
 use Yars\methods\Get;
 use Yars\Page;

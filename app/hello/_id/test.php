@@ -1,6 +1,6 @@
 <?php
 
-namespace App\hallo\_id;
+namespace App\hello\_id;
 
 use Slim\Http\Request;
 use Slim\Http\Response;
