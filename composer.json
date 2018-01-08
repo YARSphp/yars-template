@@ -1,7 +1,7 @@
 {
     "name": "yars/yars-template",
     "description": "Template for YARS.",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "GPL-3.0",
     "authors": [
         {
@@ -15,7 +15,7 @@
         }
     },
     "require": {
-        "yars/yars": "*"
+        "yars/yars": "^0.1"
     },
     "require-dev": {
     }
